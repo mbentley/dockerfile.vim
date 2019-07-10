@@ -2,6 +2,7 @@ dockerfile.vim
 ==============
 
 Syntax highlighting for Dockerfiles
+Forked from https://github.com/moby/moby/tree/master/contrib/syntax/vim because cloning 200+ MB doesn't make sense
 
 Installation
 ------------
