@@ -10,11 +10,11 @@ With [pathogen](https://github.com/tpope/vim-pathogen), the usual way...
 
 With [Vundle](https://github.com/gmarik/Vundle.vim)
 
-    Plugin 'moby/moby' , {'rtp': '/contrib/syntax/vim/'}
+    Plugin 'mbentley/dockerfile.vim'
 
 With [vim-plug](https://github.com/junegunn/vim-plug)
 
-    Plug 'moby/moby' , {'rtp': '/contrib/syntax/vim/'}
+    Plug 'mbentley/dockerfile.vim'
 
 Features
 --------
